@@ -1,6 +1,6 @@
 # pruebaRN
 
-## Instrucciones de instalacion
+## Instrucciones de instalación
 
 Este proyecto no necesita configuraciones distintas a lo habitual cuando se clona un repositorio de app react native.
 
@@ -15,9 +15,9 @@ El archivo my-upload-key.keystore se encuentra en la ruta /android/app/ y plenam
 
 ## Apk
 
-El apk en modo release se encuentra e la reaiz del proyecto bajo el nombre app-release.apk
+El apk en modo release se encuentra en la raiz del proyecto bajo el nombre app-release.apk
 
 ## Nota
 
 Android desde su version android Pie requiere que toda comunicacion con un API o web service se realice a traves de una conección https (certificado SSL).
-En vista de que el web service que se solicito consumir para este proyecto no cuenta con certificad SSL el apk en modo release negara la coneccion con dicha API, por lo que slo podra ser probada en modo debug.
+En vista de que el web service que se solicito consumir para este proyecto no cuenta con certificad SSL el apk en modo release negara la coneccion con dicha API, por lo que solo podra ser probada en modo debug.

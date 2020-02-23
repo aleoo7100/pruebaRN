@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308602861656",
+    "firebase_url": "https://pruebarn-6b9ac.firebaseio.com",
+    "project_id": "pruebarn-6b9ac",
+    "storage_bucket": "pruebarn-6b9ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308602861656:android:5650d43ebcbef8b0b1f22d",
+        "android_client_info": {
+          "package_name": "com.pruebarn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308602861656-m9ds98e4hdql4ggb0vqpq11204ui5qd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-iF1IB8_ZdLWqTeYLPzrzECYspyfiz-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308602861656-m9ds98e4hdql4ggb0vqpq11204ui5qd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
